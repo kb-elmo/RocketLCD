@@ -7,5 +7,5 @@ and shows the current bitcoin price once a minute (data from the bitfinex api).
 
 The lower display shows when the next rocket will launch into space (data from the launch library api)
 
-![alt display_front](https://i.imgur.com/tSGNM8h.jpg)
-![alt display_back](https://i.imgur.com/UTGUMPI.jpg)
+![alt display_front](https://i.imgur.com/5HAfHkm.jpg)
+![alt display_back](https://i.imgur.com/3oUW3iS.jpg)
